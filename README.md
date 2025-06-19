@@ -22,8 +22,13 @@ Okay so I made my case in 2 parts so getting 1 coherent 3d screenshot of it is h
 
 Because all my components are generally bought (and thus propriotary), ive had a hard time finding 3d models of them and thus they are not in the above. So you have to trust me that they'll fit, but they will :)
 
-So because I can't give you a 3d picture of that, here's a screenshot about how everything's layered and wired 
+So because I can't give you a 3d picture of that, here;s a drwaing that shows how everything will fit together!
 
+### project as a whole
+<img width="845" alt="Screenshot 2025-06-19 at 2 34 32 PM" src="https://github.com/user-attachments/assets/e88bb56c-b1a7-4bcb-803e-6e5ff402cce5" />
+
+
+I know that does not do the wiring justice, so here is a full diagram with pictures!
 ### layring and wiring
 ![IMG_4873](https://github.com/user-attachments/assets/9a27b048-a037-46a0-86bd-a43727e81154)
 
