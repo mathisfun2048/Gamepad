@@ -30,7 +30,7 @@ So because I can't give you a 3d picture of that, here's a screenshot about how 
 I have a lot of other progress pictures in my journal if you're curious!
 
 ## Firmware
-So tldr I don't know how to code games (yet!) so I will be utalizing RetroPi. This is included in my firmware and production folders here. 
+So tldr I don't know how to code games (yet!) so I will be utalizing RetroPi. It is not included in this repo because 1) github was being finicky about pushing it from my desktop folder and 2) its avalible online readilly 
 
 ## BOM
 
