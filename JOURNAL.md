@@ -6,7 +6,7 @@ description: This project is to create a retro gamepad!
 
 created at: 06-18-2025
 
-total time spent prepping: 16 hours (in one go! Undiagnosed ADHD!) (will increase expoentnially once I have it in front of me and I find ways to improve it)
+total time spent prepping: 17 hours (in one go! Undiagnosed ADHD!) (will increase expoentnially once I have it in front of me and I find ways to improve it)
 
 # June 8th
 ## 10AM -> 6 PM : planning (8 hours)
@@ -163,8 +163,11 @@ Top Case:
 <img width="688" alt="Screenshot 2025-06-19 at 6 44 06 AM" src="https://github.com/user-attachments/assets/0de6b2b9-2076-4e89-b5e7-390e602f9970" />
 
 
-## 7AM -> 8AM (1 hour)
+## 7AM -> 9AM (2 hours)
 In this hour I polished everything up for final review! Hopefully you llike what I made so far!! I want to affirm, though, that this was my first time really sourcing parts myself and buildign something so I expect myself to course correct after I have everythign in front of me--I am a very tactile perosn and I love fiddling arround :D
+
+WHY DOES IT TAKE THIS LONG TO UPLOAD A STUPID DESKTOP FOLDER TO GITHUB AHGHGHGDHAKLGHASDLF AKSLD FJA;FA 
+i digress...
 
 # I think I am done for now--I have the parts list, case design, and firmware ready. All thats left is to receive the parts, course correct as needed, and build this!
 
