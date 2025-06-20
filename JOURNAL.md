@@ -184,6 +184,11 @@ I found a sample online gameboy knockoff that I realy liked, so I spent the last
 
 <img width="223" alt="Screenshot 2025-06-20 at 3 31 56 PM" src="https://github.com/user-attachments/assets/b9e5242f-9268-46cf-aa45-03e38b53d607" />
 
+super cool sketch:
+
+![IMG_4874](https://github.com/user-attachments/assets/fc41fa02-a6a3-42e2-99ac-e5d54a4dd17d)
+
+
 
 
 
