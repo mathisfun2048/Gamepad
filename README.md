@@ -33,9 +33,8 @@ Because all my components are generally bought (and thus propriotary), ive had a
 So because I can't give you a 3d picture of that, here;s a drwaing that shows how everything will fit together!
 
 ### project as a whole
-<img width="845" alt="Screenshot 2025-06-19 at 2 34 32 PM" src="https://github.com/user-attachments/assets/e88bb56c-b1a7-4bcb-803e-6e5ff402cce5" />
 
-edit 6/20/2025: so I changed the case design, the overall design is now vertical instead of horizontal, besides taht everything else should still be in the same approximate location :)
+![IMG_4874](https://github.com/user-attachments/assets/9a6960ba-4fce-481d-b7b9-d3b9cb52c08a)
 
 
 I know that does not do the wiring justice, so here is a full diagram with pictures!
