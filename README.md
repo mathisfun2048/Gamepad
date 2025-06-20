@@ -15,9 +15,17 @@ Okay enough yap. If you want more stream of consciousness, look at my journal ;)
 Okay so I made my case in 2 parts so getting 1 coherent 3d screenshot of it is hard so you (the viewer) gets something even better: 2 screenshots (mwuahahahaha)
 
 ### bottom:
+
+<img width="223" alt="Screenshot 2025-06-20 at 3 31 56 PM" src="https://github.com/user-attachments/assets/b9e5242f-9268-46cf-aa45-03e38b53d607" />
+
+<old version>
 <img width="394" alt="Screenshot 2025-06-19 at 7 35 33 AM" src="https://github.com/user-attachments/assets/0bbc38ec-8a8b-4231-9f29-af13f70d2dbc" />
 
 ### top: 
+
+<img width="222" alt="Screenshot 2025-06-20 at 3 31 39 PM" src="https://github.com/user-attachments/assets/de781935-8ae9-48c7-b6b3-5d8419f127f2" />
+
+<old version>
 <img width="673" alt="Screenshot 2025-06-19 at 7 36 02 AM" src="https://github.com/user-attachments/assets/405e045f-d553-4d01-809d-009998ce22e0" />
 
 Because all my components are generally bought (and thus propriotary), ive had a hard time finding 3d models of them and thus they are not in the above. So you have to trust me that they'll fit, but they will :)
@@ -26,6 +34,8 @@ So because I can't give you a 3d picture of that, here;s a drwaing that shows ho
 
 ### project as a whole
 <img width="845" alt="Screenshot 2025-06-19 at 2 34 32 PM" src="https://github.com/user-attachments/assets/e88bb56c-b1a7-4bcb-803e-6e5ff402cce5" />
+
+edit 6/20/2025: so I changed the case design, the overall design is now vertical instead of horizontal, besides taht everything else should still be in the same approximate location :)
 
 
 I know that does not do the wiring justice, so here is a full diagram with pictures!
