@@ -6,7 +6,7 @@ description: This project is to create a retro gamepad!
 
 created at: 06-18-2025
 
-total time spent prepping: 17 hours (in one go! Undiagnosed ADHD!) (will increase expoentnially once I have it in front of me and I find ways to improve it)
+total time spent prepping: 26 hours (in ~~one~~ two go(s)! Undiagnosed ADHD!) (will increase expoentnially once I have it in front of me and I find ways to improve it)
 
 # June 8th
 ## 10AM -> 6 PM : planning (8 hours)
@@ -168,6 +168,24 @@ In this hour I polished everything up for final review! Hopefully you llike what
 
 WHY DOES IT TAKE THIS LONG TO UPLOAD A STUPID DESKTOP FOLDER TO GITHUB AHGHGHGDHAKLGHASDLF AKSLD FJA;FA 
 i digress...
+
+
+# June 20
+
+## 6AM -> 3PM (9 hours)
+
+I was going over my initial PCB design and found I have need some more holes TO THE SIDE OF TEH DISPLAY
+
+This means my horizontal design will no longer work and I need a vertical deign. 
+
+I found a sample online gameboy knockoff that I realy liked, so I spent the last 9 hours emulating that! Its been fun learning more about CAD since this is my second project. As a homage to the first itteration, those files are still in the CAD and production folders, but for practical purpouses I will use the newer versions. I feel takign time to emulate a prof. design taught me a lot of things that I would not have learned by simply making a "box" --for one I leanred how to make screw holes which are not just straight through!!! Very cool indeed. One thing that mildly irked me is how stupidly clunky it looks now... maybe ill try to adapt this to a pi zero in the future.... stay tuned >:)
+
+<img width="222" alt="Screenshot 2025-06-20 at 3 31 39 PM" src="https://github.com/user-attachments/assets/de781935-8ae9-48c7-b6b3-5d8419f127f2" />
+
+<img width="223" alt="Screenshot 2025-06-20 at 3 31 56 PM" src="https://github.com/user-attachments/assets/b9e5242f-9268-46cf-aa45-03e38b53d607" />
+
+
+
 
 # I think I am done for now--I have the parts list, case design, and firmware ready. All thats left is to receive the parts, course correct as needed, and build this!
 
