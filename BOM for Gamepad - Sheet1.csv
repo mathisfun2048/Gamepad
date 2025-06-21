@@ -1,4 +1,4 @@
-item,quantity,cost,,source,link
+item,quantity,cost,source,link
 ,,,,
 Raspberry Pi Zero 2w,1,14.99,Microcenter,https://www.microcenter.com/product/643085/raspberry-pi-zero-2-w
 GPIO Header,1,5.99,Microcenter,https://www.microcenter.com/product/480889/schmartboard-inc-schmartboard-inc-2-x-20-male-headers-qty-5
