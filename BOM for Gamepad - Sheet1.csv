@@ -1,6 +1,6 @@
 item,quantity,cost,,source,link
 ,,,,,
-Raspberry Pi 5,1,49.99,,Microcenter,https://www.microcenter.com/product/683269/raspberry-pi-5
+Raspberry Pi Zero 2w with Header,1,17.99,,Microcenter,https://www.microcenter.com/product/683269/raspberry-pi-5
 "2.8"" PiTFT Display",1,34.95,,adafruit,https://www.adafruit.com/product/2298
 PiGRRL Gamepad PCB,1,4.99,,Microcenter,https://www.microcenter.com/product/503949/adafruit-industries-pigrrl-20-custom-gamepad-pcb
 PowerBoost 1000c,1,19.99,,Microcenter,https://www.microcenter.com/product/474415/adafruit-industries-powerboost-1000-charger-rechargeable-5v-lipo-usb-boost-@-1a
@@ -15,4 +15,4 @@ slide switch,1,0.95,,adafruit,https://www.adafruit.com/product/805
 heat sink kit,1,0,,myself,n/a
 #4-40 3/8 machine screws,14,0,,myself,n/a
 #2-56 3/8 machine screws,6,0,,myself,n/a
-Total,43,145.45,,,
+Total,43,113.45,,,
