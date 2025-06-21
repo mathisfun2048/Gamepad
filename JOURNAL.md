@@ -6,7 +6,7 @@ description: This project is to create a retro gamepad!
 
 created at: 06-18-2025
 
-total time spent prepping: 26 hours (in ~~one~~ two go(s)! Undiagnosed ADHD!) (will increase expoentnially once I have it in front of me and I find ways to improve it)
+total time spent prepping: 27 hours (in ~~one~~ two go(s)! Undiagnosed ADHD!) (will increase expoentnially once I have it in front of me and I find ways to improve it)
 
 # June 8th
 ## 10AM -> 6 PM : planning (8 hours)
@@ -191,7 +191,11 @@ super cool sketch:
 
 # June 21
 
-switched pi5 to pi zero 2 w dor cost! 
+## 2PM -> 3PM (1 hour)
+switched pi5 to pi zero 2w to reduce cost!
+
+Here is the updated wiring diagram!
+![IMG_4876](https://github.com/user-attachments/assets/4c831d41-a360-4efc-9f62-8df22b359e21)
 
 
 # I think I am done for now--I have the parts list, case design, and firmware ready. All thats left is to receive the parts, course correct as needed, and build this!
