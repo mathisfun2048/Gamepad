@@ -39,7 +39,8 @@ So because I can't give you a 3d picture of that, here;s a drwaing that shows ho
 
 I know that does not do the wiring justice, so here is a full diagram with pictures!
 ### layring and wiring
-![IMG_4873](https://github.com/user-attachments/assets/9a27b048-a037-46a0-86bd-a43727e81154)
+![IMG_4876](https://github.com/user-attachments/assets/98f50d2e-57bb-4483-80ef-3bfdddd40be6)
+
 
 I have a lot of other progress pictures in my journal if you're curious!
 
@@ -54,7 +55,8 @@ Also, you might be wonderign why everything is either from Microcenter or Adafru
 
 | Item                           | Quantity | Cost   | Source       | Link                                                                                         |
 |--------------------------------|----------|--------|--------------|----------------------------------------------------------------------------------------------|
-| Raspberry Pi Zero 2 with Header                 | 1        | 17.99  | Microcenter  | [Link](https://www.microcenter.com/product/683270/raspberry-pi-raspberry-pi-zero-w-2-with-headers)                           |
+| Raspberry Pi Zero 2                 | 1        | 14.99  | Microcenter  | [Link](https://www.microcenter.com/product/643085/raspberry-pi-zero-2-w)                           |
+| GPIO header             | 1        | 5.99  | Microcenter       | [Link](https://www.microcenter.com/product/480889/schmartboard-inc-schmartboard-inc-2-x-20-male-headers-qty-5)                                                                                          |
 | 2.8" PiTFT Display             | 1        | 34.95  | Adafruit     | [Link](https://www.adafruit.com/product/2298)                                               |
 | PiGRRL Gamepad PCB            | 1        | 4.99   | Microcenter  | [Link](https://www.microcenter.com/product/503949/adafruit-industries-pigrrl-20-custom-gamepad-pcb) |
 | PowerBoost 1000c              | 1        | 19.99  | Microcenter  | [Link](https://www.microcenter.com/product/474415/adafruit-industries-powerboost-1000-charger-rechargeable-5v-lipo-usb-boost-@-1a) |
@@ -69,7 +71,7 @@ Also, you might be wonderign why everything is either from Microcenter or Adafru
 | Heat Sink Kit                 | 1        | 0.00   | Myself       | n/a                                                                                          |
 | #4-40 3/8" Machine Screws     | 14       | 0.00   | Myself       | n/a                                                                                          |
 | #2-56 3/8" Machine Screws     | 6        | 0.00   | Myself       | n/a                                                                                          |
-| **Total**                     | **43**   | **113.45** |              |                                                                                              |
+| **Total**                     | **44**   | **116.44** |              |                                                                                              |
 
 ## Closing Remarks On Planning
 
