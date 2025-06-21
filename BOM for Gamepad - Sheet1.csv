@@ -1,6 +1,7 @@
 item,quantity,cost,,source,link
 ,,,,,
-Raspberry Pi Zero 2w with Header,1,17.99,,Microcenter,https://www.microcenter.com/product/683269/raspberry-pi-5
+Raspberry Pi Zero 2w,1,14.99,,Microcenter,https://www.microcenter.com/product/643085/raspberry-pi-zero-2-w
+GPIO Header,1,5.99,,Microcenter,https://www.microcenter.com/product/480889/schmartboard-inc-schmartboard-inc-2-x-20-male-headers-qty-5
 "2.8"" PiTFT Display",1,34.95,,adafruit,https://www.adafruit.com/product/2298
 PiGRRL Gamepad PCB,1,4.99,,Microcenter,https://www.microcenter.com/product/503949/adafruit-industries-pigrrl-20-custom-gamepad-pcb
 PowerBoost 1000c,1,19.99,,Microcenter,https://www.microcenter.com/product/474415/adafruit-industries-powerboost-1000-charger-rechargeable-5v-lipo-usb-boost-@-1a
