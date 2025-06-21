@@ -189,7 +189,9 @@ super cool sketch:
 ![IMG_4874](https://github.com/user-attachments/assets/fc41fa02-a6a3-42e2-99ac-e5d54a4dd17d)
 
 
+# June 21
 
+switched pi5 to pi zero 2 w dor cost! 
 
 
 # I think I am done for now--I have the parts list, case design, and firmware ready. All thats left is to receive the parts, course correct as needed, and build this!
