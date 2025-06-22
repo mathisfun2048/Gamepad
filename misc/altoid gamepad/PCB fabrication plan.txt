@@ -1,0 +1,223 @@
+# Altoids Gamepad - PCB Fabrication Package
+
+## Overview
+This package contains the complete PCB fabrication files for the Altoids Tin Retro Gamepad project, consisting of two boards:
+- **Main Controller Board**: 90mm × 55mm, houses Pi Zero and all control electronics
+- **Display Interface Board**: 60mm × 40mm, mounts 2.8" TFT display in top lid
+
+## Fabrication Specifications
+
+### Main Controller Board
+| Parameter | Specification |
+|-----------|---------------|
+| **Dimensions** | 90.0mm × 55.0mm |
+| **Layer Count** | 2 (Top + Bottom) |
+| **Board Thickness** | 1.6mm ±0.1mm |
+| **Copper Weight** | 1oz (35µm) both layers |
+| **Via Specification** | 0.2mm drill, 0.45mm pad |
+| **Minimum Trace** | 0.2mm width, 0.2mm spacing |
+| **Surface Finish** | HASL Lead-Free |
+| **Solder Mask** | Green, both sides |
+| **Silkscreen** | White, top side only |
+
+### Display Interface Board  
+| Parameter | Specification |
+|-----------|---------------|
+| **Dimensions** | 60.0mm × 40.0mm |
+| **Layer Count** | 2 (Top + Bottom) |
+| **Board Thickness** | 1.6mm ±0.1mm |
+| **Copper Weight** | 1oz (35µm) both layers |
+| **Via Specification** | 0.2mm drill, 0.45mm pad |
+| **Minimum Trace** | 0.2mm width, 0.2mm spacing |
+| **Surface Finish** | HASL Lead-Free |
+| **Solder Mask** | Black, both sides |
+| **Silkscreen** | White, top side only |
+
+## Gerber File Package Contents
+
+### Main Controller Board Files
+```
+MainController_Gerbers/
+├── MainController-F.Cu.gbr          # Top Copper Layer
+├── MainController-B.Cu.gbr          # Bottom Copper Layer  
+├── MainController-F.Mask.gbr        # Top Solder Mask
+├── MainController-B.Mask.gbr        # Bottom Solder Mask
+├── MainController-F.Silkscreen.gbr  # Top Silkscreen
+├── MainController-Edge.Cuts.gbr     # Board Outline
+├── MainController-NPTH.drl          # Non-Plated Holes
+├── MainController-PTH.drl           # Plated Through Holes
+├── MainController-job.gbrjob        # Gerber Job File
+└── MainController_drill_map.pdf     # Drill Chart Reference
+```
+
+### Display Interface Board Files
+```
+DisplayBoard_Gerbers/
+├── DisplayBoard-F.Cu.gbr            # Top Copper Layer
+├── DisplayBoard-B.Cu.gbr            # Bottom Copper Layer
+├── DisplayBoard-F.Mask.gbr          # Top Solder Mask  
+├── DisplayBoard-B.Mask.gbr          # Bottom Solder Mask
+├── DisplayBoard-F.Silkscreen.gbr    # Top Silkscreen
+├── DisplayBoard-Edge.Cuts.gbr       # Board Outline
+├── DisplayBoard-NPTH.drl            # Non-Plated Holes
+├── DisplayBoard-PTH.drl             # Plated Through Holes
+├── DisplayBoard-job.gbrjob          # Gerber Job File
+└── DisplayBoard_drill_map.pdf       # Drill Chart Reference
+```
+
+## Drill Specifications
+
+### Main Controller Board
+| Drill Size | Quantity | Purpose |
+|------------|----------|---------|
+| 0.20mm | ~80 | Via holes |
+| 0.70mm | 8 | Resistor/capacitor leads |
+| 0.80mm | 40 | GPIO header pins |
+| 1.00mm | 12 | Connector pins |
+| 1.20mm | 6 | Large connector pins |
+| 2.70mm | 4 | M2.5 mounting holes |
+
+### Display Interface Board
+| Drill Size | Quantity | Purpose |
+|------------|----------|---------|
+| 0.20mm | ~20 | Via holes |
+| 0.70mm | 4 | Capacitor leads |
+| 0.80mm | 16 | Display connector pins |
+| 1.00mm | 10 | FFC connector pins |
+| 2.70mm | 4 | M2.5 mounting holes |
+
+## Assembly Drawings
+
+### Main Controller Component Placement
+```
+Component Reference Designators:
+U_PI    - Raspberry Pi Zero 2W
+U1      - MCP23017 I/O Expander  
+U2      - PowerBoost 1000C
+U3      - MAX98357A Audio Amplifier
+J1      - GPIO Header (40-pin)
+J2      - USB-C Charging Port
+J3      - Battery JST Connector
+J4      - 3.5mm Audio Jack
+J5      - Display Ribbon Connector
+SW1     - Power Switch
+SW2-SW9 - Tactile Switches (Buttons)
+R1-R3   - 10K Resistors
+C1      - 100µF Electrolytic Capacitor
+C2-C4   - 100nF Ceramic Capacitors
+```
+
+### Display Board Component Placement  
+```
+Component Reference Designators:
+U1      - 2.8" TFT Display Breakout
+J1      - 10-pin FFC Connector
+C1-C2   - 100nF Ceramic Capacitors  
+R1      - 10K Resistor (optional)
+```
+
+## Manufacturing Notes
+
+### Critical Specifications
+- **Via Aspect Ratio**: Maximum 8:1 (1.6mm board thickness ÷ 0.2mm drill)
+- **Annular Ring**: Minimum 0.1mm (0.45mm pad - 0.2mm drill ÷ 2)
+- **Solder Mask Registration**: ±0.1mm
+- **Silkscreen Registration**: ±0.15mm
+- **Board Thickness Tolerance**: ±0.1mm critical for connector fit
+
+### Quality Requirements
+- **Electrical Test**: 100% net continuity testing
+- **Visual Inspection**: IPC-A-600 Class 2 standard
+- **Impedance Control**: Not required (low-speed digital)
+- **Controlled Dielectric**: Standard FR4 acceptable
+
+## Recommended Manufacturers
+
+### Budget Option: JLCPCB
+- **Cost**: ~$15 for Main Board + $10 for Display Board (5 pieces each)
+- **Lead Time**: 5-7 days + shipping
+- **Quality**: Good for prototyping
+- **Min Order**: 5 pieces
+
+### Premium Option: OSH Park  
+- **Cost**: ~$25 for Main Board + $15 for Display Board (3 pieces each)
+- **Lead Time**: 8-12 days + shipping
+- **Quality**: Excellent, made in USA
+- **Min Order**: 3 pieces
+
+### Production Option: PCBWay
+- **Cost**: ~$20 for Main Board + $12 for Display Board (10 pieces each)
+- **Lead Time**: 3-5 days + shipping  
+- **Quality**: Very good
+- **Min Order**: 10 pieces
+
+## Pre-Flight Checklist
+
+Before submitting to manufacturer, verify:
+
+### Design Rule Check (DRC)
+- [ ] Minimum trace width: 0.2mm
+- [ ] Minimum spacing: 0.2mm  
+- [ ] Via size: 0.2mm drill minimum
+- [ ] Annular ring: 0.1mm minimum
+- [ ] Board outline: Closed polygon
+- [ ] No overlapping components
+
+### Electrical Rule Check (ERC)
+- [ ] All nets connected
+- [ ] No floating pins
+- [ ] Power/ground connections verified
+- [ ] Connector pinouts correct
+- [ ] Polarity markings clear
+
+### Manufacturing Compatibility
+- [ ] Drill sizes available at manufacturer
+- [ ] Layer stackup matches standard offering
+- [ ] Surface finish compatible with assembly
+- [ ] Fiducials present for assembly
+- [ ] Test points accessible
+
+## Cost Breakdown
+
+### Main Controller Board (5 pieces)
+- PCB Fabrication: $15.00
+- Shipping: $8.00
+- **Subtotal**: $23.00
+
+### Display Interface Board (5 pieces)  
+- PCB Fabrication: $10.00
+- Shipping: $5.00 (combined)
+- **Subtotal**: $15.00
+
+### **Total PCB Cost**: $38.00 (includes 5 of each board)
+
+## Timeline
+
+### Standard Schedule
+- **File Preparation**: 1 day
+- **Manufacturer Review**: 1 day  
+- **Fabrication**: 5-7 days
+- **Shipping**: 7-14 days
+- **Total**: 2-3 weeks
+
+### Expedited Schedule  
+- **File Preparation**: 1 day
+- **Manufacturer Review**: Same day
+- **Fabrication**: 2-3 days
+- **Express Shipping**: 3-5 days  
+- **Total**: 1 week (+$50 cost)
+
+## File Submission Format
+
+### Preferred Format
+- **Archive**: ZIP file containing all Gerbers + Excellon drill files
+- **Naming**: Clear, consistent file naming convention
+- **Documentation**: Include drill chart and assembly drawings
+- **Verification**: Gerber viewer check before submission
+
+### Alternative Formats
+- **KiCad Native**: Some manufacturers accept .kicad_pcb files directly  
+- **Eagle**: .brd files accepted by some manufacturers
+- **Altium**: ODB++ database format for complex boards
+
+This fabrication package provides everything needed to manufacture professional-quality PCBs for the Altoids Gamepad project.

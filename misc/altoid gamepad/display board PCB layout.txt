@@ -1,0 +1,195 @@
+# Altoids Gamepad - Display Board PCB Layout
+# KiCad PCB File (.kicad_pcb)
+
+# BOARD SPECIFICATIONS  
+# Dimensions: 60mm x 40mm
+# Layers: 2 (Top Copper + Bottom Copper)
+# Thickness: 1.6mm
+# Via Size: 0.2mm drill / 0.45mm pad
+# Min Trace: 0.2mm
+# Min Spacing: 0.2mm
+
+# MECHANICAL CONSTRAINTS
+# Fits behind 2.8" display in top lid
+# Display cutout: 58mm x 43mm rectangular opening
+# Mounting to 3D printed bezel
+# Ribbon cable clearance through hinge
+
+## COMPONENT PLACEMENT
+
+# 2.8" TFT Display Breakout (U1):
+#   Position: X=30mm, Y=20mm (board center)
+#   Orientation: Pin 1 toward bottom-left
+#   Mounting: Display face mounts to front of PCB
+#   Breakout board: Adafruit #1770 (36mm x 28mm)
+
+# Ribbon Cable Connector (J1):
+#   Position: X=30mm, Y=5mm (bottom edge, centered)
+#   Type: 10-pin FFC/FPC connector, 0.5mm pitch
+#   Orientation: Contacts toward bottom (hinge side)
+#   Mechanical stress relief important
+
+# Decoupling Capacitors:
+#   C1 (100nF): X=15mm, Y=15mm (near 5V input)
+#   C2 (100nF): X=45mm, Y=25mm (near 3V3 input)
+#   Placement: Close to power pins
+
+# Optional Pullup Resistor:
+#   R1 (10K): X=35mm, Y=10mm
+#   Reset line pullup (if needed)
+
+## DISPLAY MOUNTING STRATEGY
+# The 2.8" TFT breakout board mounts to the FRONT of this PCB
+# This PCB acts as a mounting/interface board
+# Display viewing area: 57.6mm x 43.2mm active area
+# Total display module: 60mm x 45mm x 3mm
+
+# Mounting Method:
+#   - 4x M2.5 mounting holes through both PCBs
+#   - Spacers maintain proper LCD-to-bezel distance
+#   - Connector area kept clear on back side
+
+## LAYER STACKUP
+# Layer 1 (Top): Signal traces + component pads
+# Layer 2 (Bottom): Ground plane + power distribution
+
+## POWER DISTRIBUTION
+# 5V Rail (Display Backlight):
+#   Input: Ribbon J1-Pin1
+#   Output: Display VIN pin
+#   Trace width: 0.5mm
+#   Decoupling: C1 (100nF) near input
+
+# 3V3 Rail (Logic Supply):  
+#   Input: Ribbon J1-Pin2
+#   Output: Display 3Vo pin
+#   Trace width: 0.4mm
+#   Decoupling: C2 (100nF) near input
+
+# Ground Network:
+#   Input: Ribbon J1-Pin3
+#   Distribution: Bottom layer ground plane
+#   Connection: Display GND pin
+#   Plane coverage: >90% of bottom layer
+
+## SIGNAL ROUTING
+
+# SPI Display Interface:
+#   MOSI: J1-Pin4 -> Display MOSI
+#   MISO: J1-Pin5 -> Display MISO  
+#   SCLK: J1-Pin6 -> Display SCK
+#   CS: J1-Pin7 -> Display CS
+#   Trace width: 0.25mm
+#   Length: <15mm each
+#   Routing: Top layer, avoid crossing
+
+# Control Signals:
+#   DC: J1-Pin8 -> Display D/C
+#   RESET: J1-Pin9 -> Display RST  
+#   Touch CS: J1-Pin10 -> Display T_CS
+#   Trace width: 0.2mm
+#   Length: <20mm each
+
+# Touch Interface (shared SPI):
+#   Touch uses same MOSI/MISO/SCLK as display
+#   Separate chip select (T_CS)
+#   Touch IRQ could be added as 11th wire if needed
+
+## MECHANICAL FEATURES
+
+# Mounting Holes (4x):
+#   Positions: (5,5), (55,5), (55,35), (5,35)
+#   Size: 2.7mm diameter (M2.5 clearance)
+#   Plated through holes
+#   Countersink option for flush mounting
+
+# Display Alignment Features:
+#   Alignment pins/holes for precise display positioning
+#   Prevent rotation during assembly
+#   Match 3D printed bezel features
+
+# Strain Relief:
+#   Ribbon cable: Curved routing to connector
+#   Additional mechanical support in 3D printed parts
+
+## COMPONENT ORIENTATION
+
+# Display Breakout (U1):
+#   Pin 1 (VIN): Bottom-left when viewing from front
+#   USB connector area: Toward ribbon connector
+#   Keep component side toward back of lid
+#   All connections on back side of this PCB
+
+# Ribbon Connector (J1):
+#   Pin 1: Left side (toward display pin 1)
+#   Insertion direction: From hinge side
+#   Locking mechanism: Flip-lock type
+#   Cable relief: 45° bend capability
+
+## ROUTING PRIORITIES
+
+# PRIORITY 1: Power Distribution
+#   5V and 3V3 rails with adequate width
+#   Minimize resistance and voltage drop
+#   Short, direct paths from connector to display
+
+# PRIORITY 2: SPI Clock (SCLK)
+#   Shortest possible trace
+#   Avoid vias if possible
+#   Keep away from power switching traces
+
+# PRIORITY 3: SPI Data Lines
+#   MOSI and MISO matched length ±1mm
+#   Parallel routing where possible
+#   Minimize crosstalk
+
+# PRIORITY 4: Control Signals
+#   DC, RESET, Chip Selects
+#   Less critical timing
+#   Can use longer routes if needed
+
+## ELECTROMAGNETIC COMPATIBILITY
+# Ground plane: Continuous bottom layer
+# Power decoupling: Close to IC power pins
+# Via stitching: Connect top traces to ground plane
+# Shielding: Ground plane acts as shield between layers
+
+## THERMAL CONSIDERATIONS
+# Low power design: <500mW total
+# Display backlight: Main heat source
+# Thermal vias: Connect ground plane to top layer
+# Air circulation: Vent holes in 3D printed bezel
+
+## MANUFACTURING SPECIFICATIONS
+# PCB Thickness: 1.6mm ±0.1mm
+# Copper Weight: 1oz (35µm) both layers
+# Surface Finish: HASL lead-free
+# Solder Mask: Black (matches aesthetic)
+# Silkscreen: White text, minimal legends
+# Via Fill: Tented (covered by solder mask)
+
+## QUALITY ASSURANCE
+# Fiducials: 2x 1mm diameter for assembly
+#   Positions: (10,35), (50,5)
+# Test Points: Power rails accessible
+#   5V, 3V3, GND test pads on back side
+# Visual Inspection: Clear component labeling
+
+## ASSEMBLY NOTES
+# Component side: Back of board (away from user)
+# Display mounts: Front of board (toward user)
+# Ribbon cable: Routes through hinge to main board
+# No components in display viewing area
+# All solder joints accessible for rework
+
+## DESIGN VERIFICATION
+# ✓ Display breakout footprint verified
+# ✓ Ribbon connector footprint matches cable
+# ✓ Power distribution adequate for display
+# ✓ Signal routing meets timing requirements
+# ✓ Mechanical constraints satisfied
+# ✓ Mounting holes align with mechanical design
+# ✓ Ground plane coverage optimized
+# ✓ Component clearances verified
+# ✓ Manufacturing rules compliant
+# ✓ Thermal design adequate

@@ -1,0 +1,52 @@
+"added some misc files"
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Arya Chakrabarti <aryachakrabarti@Aryas-Macbook-Pro.local>
+#
+# On branch main
+# Your branch is ahead of 'origin/main' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	new file:   .DS_Store
+#	new file:   BOM for Gamepad - Sheet1.csv
+#	new file:   CAD/bottom case for gamepad v3.stl
+#	new file:   CAD/bottom case for gamepad v4 STEP.step
+#	new file:   CAD/bottom case for gamepad v4.stl
+#	new file:   CAD/top case for gamepad v1.stl
+#	new file:   CAD/top case for gamepad v2 STEP.step
+#	new file:   CAD/top case for gamepad v2.stl
+#	new file:   JOURNAL.md
+#	new file:   Production/bottom case for gamepad v4 copy.stl
+#	new file:   Production/top case for gamepad v2 copy.stl
+#	new file:   README.md
+#	new file:   "Wiring/Screenshot 2025-06-19 at 6.52.05\342\200\257AM.png"
+#	new file:   misc/.DS_Store
+#	new file:   misc/PCB Gerbers/.DS_Store
+#	new file:   misc/PCB Gerbers/Archive.zip
+#	new file:   misc/PCB Gerbers/PiGRRL-ButtonPCB-B_Cu.gbr
+#	new file:   misc/PCB Gerbers/PiGRRL-ButtonPCB-B_Mask.gbr
+#	new file:   misc/PCB Gerbers/PiGRRL-ButtonPCB-B_Paste.gbr
+#	new file:   misc/PCB Gerbers/PiGRRL-ButtonPCB-B_Silkscreen.gbr
+#	new file:   misc/PCB Gerbers/PiGRRL-ButtonPCB-Edge_Cuts.gbr
+#	new file:   misc/PCB Gerbers/PiGRRL-ButtonPCB-F_Cu.gbr
+#	new file:   misc/PCB Gerbers/PiGRRL-ButtonPCB-F_Mask.gbr
+#	new file:   misc/PCB Gerbers/PiGRRL-ButtonPCB-F_Paste.gbr
+#	new file:   misc/PCB Gerbers/PiGRRL-ButtonPCB-F_Silkscreen.gbr
+#	new file:   misc/PCB Gerbers/PiGRRL-ButtonPCB-NPTH-drl_map.gbr
+#	new file:   misc/PCB Gerbers/PiGRRL-ButtonPCB-NPTH.drl
+#	new file:   misc/PCB Gerbers/PiGRRL-ButtonPCB-PTH-drl_map.gbr
+#	new file:   misc/PCB Gerbers/PiGRRL-ButtonPCB-PTH.drl
+#	new file:   misc/PCB Gerbers/PiGRRL-ButtonPCB-job.gbrjob
+#	new file:   misc/altoid gamepad/.DS_Store
+#	new file:   misc/altoid gamepad/Main Controler Board Schematic Design.txt
+#	new file:   misc/altoid gamepad/PCB fabrication plan.txt
+#	new file:   misc/altoid gamepad/display board PCB layout.txt
+#	new file:   misc/altoid gamepad/display board schematic.txt
+#	new file:   misc/altoid gamepad/final BOM.txt
+#	new file:   misc/altoid gamepad/main controller PCB Layout.txt
+#	new file:   misc/altoid gamepad/v1.scad.txt
+#	new file:   misc/altoid gamepad/v2.scad
+#
