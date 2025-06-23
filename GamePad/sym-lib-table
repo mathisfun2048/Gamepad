@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PiGRRL-ButtonPCB-eagle-import")(type "KiCad")(uri "/Users/aryachakrabarti/Downloads/PiGRRL-ButtonPCB/PiGRRL-ButtonPCB/PiGRRL-ButtonPCB-eagle-import.kicad_sym")(options "")(descr ""))
+)
