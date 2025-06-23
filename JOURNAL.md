@@ -6,7 +6,7 @@ description: This project is to create a retro gamepad!
 
 created at: 06-18-2025
 
-total time spent prepping: 27 hours (in ~~one~~ two go(s)! Undiagnosed ADHD!) (will increase expoentnially once I have it in front of me and I find ways to improve it)
+total time spent prepping: 30 hours (in ~~one~~ two go(s)! Undiagnosed ADHD!) (will increase expoentnially once I have it in front of me and I find ways to improve it)
 
 # June 8th
 ## 10AM -> 6 PM : planning (8 hours)
