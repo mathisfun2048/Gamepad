@@ -58,7 +58,7 @@ Also, you might be wonderign why everything is either from Microcenter or Adafru
 | Raspberry Pi Zero 2                 | 1        | 14.99  | Microcenter  | [Link](https://www.microcenter.com/product/643085/raspberry-pi-zero-2-w)                           |
 | GPIO header             | 1        | 5.99  | Microcenter       | [Link](https://www.microcenter.com/product/480889/schmartboard-inc-schmartboard-inc-2-x-20-male-headers-qty-5)                                                                                          |
 | 2.8" PiTFT Display             | 1        | 34.95  | Adafruit     | [Link](https://www.adafruit.com/product/2298)                                               |
-| PiGRRL Gamepad PCB            | 1        | 4.99   | Microcenter  | [Link](https://www.microcenter.com/product/503949/adafruit-industries-pigrrl-20-custom-gamepad-pcb) |
+| Custom PCB           | 1        | ~$20  | JCL PCB  |  |
 | PowerBoost 1000c              | 1        | 19.99  | Microcenter  | [Link](https://www.microcenter.com/product/474415/adafruit-industries-powerboost-1000-charger-rechargeable-5v-lipo-usb-boost-@-1a) |
 | 2500 mAh Battery              | 1        | 14.99  | Microcenter  | [Link](https://www.microcenter.com/product/454401/adafruit-industries-lithium-ion-polymer-battery-37v-2500mah) |
 | PAM8302 2.5W Audio Amp        | 1        | 3.95   | Microcenter  | [Link](https://www.adafruit.com/product/2130)                                               |
@@ -71,7 +71,7 @@ Also, you might be wonderign why everything is either from Microcenter or Adafru
 | Heat Sink Kit                 | 1        | 0.00   | Myself       | n/a                                                                                          |
 | #4-40 3/8" Machine Screws     | 14       | 0.00   | Myself       | n/a                                                                                          |
 | #2-56 3/8" Machine Screws     | 6        | 0.00   | Myself       | n/a                                                                                          |
-| **Total**                     | **44**   | **116.44** |              |                                                                                              |
+| **Total**                     | **44**   | **~133** |              |                                                                                              |
 
 ## Closing Remarks On Planning
 
