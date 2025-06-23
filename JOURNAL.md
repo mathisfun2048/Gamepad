@@ -198,6 +198,20 @@ Here is the updated wiring diagram!
 ![IMG_4876](https://github.com/user-attachments/assets/4c831d41-a360-4efc-9f62-8df22b359e21)
 
 
+# June 23
+## 12:30PM -> 3:30PM (3 hours)
+
+Spent this time makign a custom PCB! It was super fun learning more about what each gpio pin on a raspberry pi is connected to and refining my wiring abilities. I saw this took significantly less time than the hackpad, which I'm proud of :)
+
+### Schematic
+<img width="500" alt="Screenshot 2025-06-23 at 3 18 57 PM" src="https://github.com/user-attachments/assets/17d8576e-a649-4678-a186-42d98876e26e" />
+
+### PCB 
+<img width="500" alt="Screenshot 2025-06-23 at 3 19 37 PM" src="https://github.com/user-attachments/assets/48193e39-db1a-4de0-b8aa-46e1739a57ba" />
+
+
+
+
 # I think I am done for now--I have the parts list, case design, and firmware ready. All thats left is to receive the parts, course correct as needed, and build this!
 
 
