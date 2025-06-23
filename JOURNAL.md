@@ -209,6 +209,10 @@ Spent this time makign a custom PCB! It was super fun learning more about what e
 ### PCB 
 <img width="500" alt="Screenshot 2025-06-23 at 3 19 37 PM" src="https://github.com/user-attachments/assets/48193e39-db1a-4de0-b8aa-46e1739a57ba" />
 
+### updated layout
+![IMG_4881](https://github.com/user-attachments/assets/cc594ea7-3991-4a9f-b678-bd8e18203ea4)
+
+
 
 
 
