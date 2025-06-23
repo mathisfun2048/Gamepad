@@ -43,7 +43,8 @@ Okay so I made my case in 2 parts so getting 1 coherent 3d screenshot of it is h
 
 I know that does not do the wiring justice, so here is a full diagram with pictures!
 ### layring and wiring
-![IMG_4876](https://github.com/user-attachments/assets/98f50d2e-57bb-4483-80ef-3bfdddd40be6)
+
+![IMG_4881](https://github.com/user-attachments/assets/7dcbc438-c314-4644-be83-9e41f7f7ddf1)
 
 
 I have a lot of other progress pictures in my journal if you're curious!
@@ -64,6 +65,7 @@ Also, you might be wonderign why everything is either from Microcenter or Adafru
 | 2.8" PiTFT Display             | 1        | 34.95  | Adafruit     | [Link](https://www.adafruit.com/product/2298)                                               |
 | Custom PCB           | 1        | ~$20  | JCL PCB  |  |
 | PowerBoost 1000c              | 1        | 19.99  | Microcenter  | [Link](https://www.microcenter.com/product/474415/adafruit-industries-powerboost-1000-charger-rechargeable-5v-lipo-usb-boost-@-1a) |
+| NeoPixel LEDs sk6812Mini       | 4        | 0   | myself, should have some remaining from another project  | n/a                                             |
 | 2500 mAh Battery              | 1        | 14.99  | Microcenter  | [Link](https://www.microcenter.com/product/454401/adafruit-industries-lithium-ion-polymer-battery-37v-2500mah) |
 | PAM8302 2.5W Audio Amp        | 1        | 3.95   | Microcenter  | [Link](https://www.adafruit.com/product/2130)                                               |
 | Mini Metal Speaker            | 1        | 1.95   | Adafruit     | [Link](https://www.adafruit.com/product/1890)                                               |
