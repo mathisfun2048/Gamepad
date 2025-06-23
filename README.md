@@ -28,9 +28,13 @@ Okay so I made my case in 2 parts so getting 1 coherent 3d screenshot of it is h
 <old version>
 <img width="100" alt="Screenshot 2025-06-19 at 7 36 02 AM" src="https://github.com/user-attachments/assets/405e045f-d553-4d01-809d-009998ce22e0" />
 
-Because all my components are generally bought (and thus propriotary), ive had a hard time finding 3d models of them and thus they are not in the above. So you have to trust me that they'll fit, but they will :)
+### Schematic
+<img width="500" alt="Screenshot 2025-06-23 at 3 18 57 PM" src="https://github.com/user-attachments/assets/17d8576e-a649-4678-a186-42d98876e26e" />
 
-So because I can't give you a 3d picture of that, here;s a drwaing that shows how everything will fit together!
+### PCB 
+<img width="500" alt="Screenshot 2025-06-23 at 3 19 37 PM" src="https://github.com/user-attachments/assets/48193e39-db1a-4de0-b8aa-46e1739a57ba" />
+
+
 
 ### project as a whole
 
