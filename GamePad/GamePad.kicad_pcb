@@ -11359,6 +11359,102 @@
 		(layer "Edge.Cuts")
 		(uuid "e08b91a8-6f60-448b-908f-5d12ed85144a")
 	)
+	(gr_text "GPIO 1 -> 40"
+		(at 42.8625 195.2625 0)
+		(layer "F.SilkS")
+		(uuid "031d47f7-cb2a-4b8a-b2e5-8fadebc4e01a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "GND\n"
+		(at 90.4875 188.11875 90)
+		(layer "F.SilkS")
+		(uuid "5079449a-71fe-4e6c-9617-3dce6882f8a0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "GND\n"
+		(at 88.10625 188.11875 90)
+		(layer "F.SilkS")
+		(uuid "691e3c7a-a02a-4dcf-ad5f-45e8a8ab364e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "GND\n"
+		(at 21.43125 195.2625 0)
+		(layer "F.SilkS")
+		(uuid "be3f3880-f0f2-4364-aa1a-0ef4b1566d7b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "direction"
+		(at 21.43125 183.35625 0)
+		(layer "F.SilkS")
+		(uuid "cdb6aae6-fc81-4af0-95d2-604de0ff12cc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Arya's Gamepad!\n"
+		(at 19.05 154.78125 0)
+		(layer "F.SilkS")
+		(uuid "daafcb5e-1b3b-46f4-9539-ebd4dff013b4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "xoab\n"
+		(at 90.4875 180.975 0)
+		(layer "F.SilkS")
+		(uuid "e26441a3-9d5d-4e82-8196-f76516bbd2c4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "5V\n"
+		(at 16.66875 195.2625 0)
+		(layer "F.SilkS")
+		(uuid "f6bb34a3-4392-46b0-baf7-dc1be93b9e31")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 45.24375 169.06875)
 		(end 46.34475 167.96775)
