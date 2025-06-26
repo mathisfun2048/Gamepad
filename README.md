@@ -56,7 +56,7 @@ So tldr I don't know how to code games (yet!) so I will be utalizing RetroPi. It
 
 Here's everything you need if you want to build this too! (also includes sweat and tears... forgot to include that in the table)
 
-Also, you might be wonderign why everything is either from Microcenter or Adafruit and not cheaper alternatives like AliExpress. The short answer is my parents won't allow me to purchase stuff from aliexpress. However, if my cost goes above the alloted $150 with future edits or anything, I will be more than happy to pay out of pocket. 
+Also, you might be wonderign why everything is either from Microcenter or Adafruit and not cheaper alternatives like AliExpress. The short answer is my parents won't allow me to purchase stuff from aliexpress. However, if my cost goes above the alloted $150 with future edits or anything, I will be more than happy to pay out of pocket. If this project gets downgraded to 4 points, I'd also be willing to pay out of pocket because this is honestly pretty cool and I want to see it in person. I never got a handheld video game console as a kid and I'm excited that I'll be able to make one now :)
 
 | Item                           | Quantity | Cost   | Source       | Link                                                                                         |
 |--------------------------------|----------|--------|--------------|----------------------------------------------------------------------------------------------|
