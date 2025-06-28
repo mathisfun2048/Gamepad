@@ -71,13 +71,13 @@ Also, you might be wonderign why everything is either from Microcenter or Adafru
 | Mini Metal Speaker            | 1        | 1.95   | Adafruit     | [Link](https://www.adafruit.com/product/1890)                                               |
 | 40 pin GPIO Ribbon Cable      | 1        | 2.95   | Adafruit     | [Link](https://www.adafruit.com/product/1988)                                               |
 | Slide Switch                  | 1        | 0.95   | Adafruit     | [Link](https://www.adafruit.com/product/805)                                                |
-| 6mm Tactile Buttons           | 10       | 9.99   | Microcenter  | [Link](https://www.microcenter.com/product/632688/inland-6x6mm-micro-momentary-tactile-push-button-switches-assortment-kit-10-values-180-pcs) |
+| 6mm Tactile Buttons           | 10       | 0.00   | Microcenter  | [Link](https://www.microcenter.com/product/632688/inland-6x6mm-micro-momentary-tactile-push-button-switches-assortment-kit-10-values-180-pcs) |
 | 12mm Tactile Buttons          | 2        | 0.00   | Microcenter  | [Link](https://www.microcenter.com/product/632688/inland-6x6mm-micro-momentary-tactile-push-button-switches-assortment-kit-10-values-180-pcs) |
 | 2x20 pin IDC Box Header       | 1        | 0.75   | Adafruit     | [Link](https://www.adafruit.com/product/1993)                                               |
 | Heat Sink Kit                 | 1        | 0.00   | Myself       | n/a                                                                                          |
 | #4-40 3/8" Machine Screws     | 14       | 0.00   | Myself       | n/a                                                                                          |
 | #2-56 3/8" Machine Screws     | 6        | 0.00   | Myself       | n/a                                                                                          |
-| **Total**                     | **44**   | **~133** |              |                                                                                              |
+| **Total**                     | **44**   | **~115** |              |                                                                                              |
 
 ## Closing Remarks On Planning
 
