@@ -12,22 +12,6 @@ Okay enough yap. If you want more stream of consciousness, look at my journal ;)
 
 ## PICTURES
 
-Okay so I made my case in 2 parts so getting 1 coherent 3d screenshot of it is hard so you (the viewer) gets something even better: 2 screenshots (mwuahahahaha)
-
-### bottom:
-
-<img width="500" alt="Screenshot 2025-06-20 at 3 31 56 PM" src="https://github.com/user-attachments/assets/b9e5242f-9268-46cf-aa45-03e38b53d607" />
-
-<old version>
-<img width="100" alt="Screenshot 2025-06-19 at 7 35 33 AM" src="https://github.com/user-attachments/assets/0bbc38ec-8a8b-4231-9f29-af13f70d2dbc" />
-
-### top: 
-
-<img width="500" alt="Screenshot 2025-06-20 at 3 31 39 PM" src="https://github.com/user-attachments/assets/de781935-8ae9-48c7-b6b3-5d8419f127f2" />
-
-<old version>
-<img width="100" alt="Screenshot 2025-06-19 at 7 36 02 AM" src="https://github.com/user-attachments/assets/405e045f-d553-4d01-809d-009998ce22e0" />
-
 ### Schematic
 
 <img width="500" alt="Screenshot 2025-06-30 at 4 40 49 AM" src="https://github.com/user-attachments/assets/c07b6f1e-4d40-4ae4-80b6-50886e559fe4" />
@@ -42,16 +26,10 @@ Okay so I made my case in 2 parts so getting 1 coherent 3d screenshot of it is h
 
 ### project as a whole
 
-![IMG_4874](https://github.com/user-attachments/assets/9a6960ba-4fce-481d-b7b9-d3b9cb52c08a)
+![Everything Together](https://github.com/user-attachments/assets/59a39bf8-cfd1-4bd1-b639-744d4dbcc195)
 
+![Top View](https://github.com/user-attachments/assets/69d6b4a5-3753-461e-8eac-f8a0f5f3d4c6)
 
-I know that does not do the wiring justice, so here is a full diagram with pictures!
-### layring and wiring
-
-![IMG_4881](https://github.com/user-attachments/assets/7dcbc438-c314-4644-be83-9e41f7f7ddf1)
-
-
-I have a lot of other progress pictures in my journal if you're curious!
 
 ## Firmware
 So tldr I don't know how to code games (yet!) so I will be utalizing RetroPi. It is not included in this repo because 1) github was being finicky about pushing it from my desktop folder and 2) its avalible online readilly 
