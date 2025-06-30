@@ -212,10 +212,19 @@ Spent this time makign a custom PCB! It was super fun learning more about what e
 ![IMG_4881](https://github.com/user-attachments/assets/cc594ea7-3991-4a9f-b678-bd8e18203ea4)
 
 
+# June 29
+
+## 8PM -> 9PM (1 hour)
+
+I was going to order my PCB but thought the encloser looked not the best, so I wanted to refine the design. Using the skills I learned from my PaperCAM and PassPAD projects, I am making a new PCB that utalizes pass-through GPIO pins to best utalize the form-factor of the raspberry pi zero 2 w. Right now, I'm envisioning this:
+
+<rpi> -> < pcb with buttons and stuff> -> <display>
 
 
+Here's my updated schematic reflecting this. So excited to continue this project!
 
-# I think I am done for now--I have the parts list, case design, and firmware ready. All thats left is to receive the parts, course correct as needed, and build this!
+
+<img width="896" alt="Screenshot 2025-06-30 at 2 34 40 AM" src="https://github.com/user-attachments/assets/098ce58b-ea11-496d-81f4-5bafa648ac31" />
 
 
 
