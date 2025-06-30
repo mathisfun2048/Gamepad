@@ -29,12 +29,16 @@ Okay so I made my case in 2 parts so getting 1 coherent 3d screenshot of it is h
 <img width="100" alt="Screenshot 2025-06-19 at 7 36 02 AM" src="https://github.com/user-attachments/assets/405e045f-d553-4d01-809d-009998ce22e0" />
 
 ### Schematic
-<img width="500" alt="Screenshot 2025-06-23 at 3 18 57 PM" src="https://github.com/user-attachments/assets/17d8576e-a649-4678-a186-42d98876e26e" />
+
+<img width="500" alt="Screenshot 2025-06-30 at 4 40 49 AM" src="https://github.com/user-attachments/assets/c07b6f1e-4d40-4ae4-80b6-50886e559fe4" />
+
+<img width="100" alt="Screenshot 2025-06-23 at 3 18 57 PM" src="https://github.com/user-attachments/assets/17d8576e-a649-4678-a186-42d98876e26e" />
 
 ### PCB 
-<img width="500" alt="Screenshot 2025-06-23 at 3 19 37 PM" src="https://github.com/user-attachments/assets/48193e39-db1a-4de0-b8aa-46e1739a57ba" />
 
+<img width="500" alt="Screenshot 2025-06-30 at 4 41 06 AM" src="https://github.com/user-attachments/assets/49769586-41db-4bbd-9350-b0e54036b774" />
 
+<img width="100" alt="Screenshot 2025-06-23 at 3 19 37 PM" src="https://github.com/user-attachments/assets/48193e39-db1a-4de0-b8aa-46e1739a57ba" />
 
 ### project as a whole
 
