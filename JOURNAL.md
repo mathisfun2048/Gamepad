@@ -227,6 +227,18 @@ Here's my updated schematic reflecting this. So excited to continue this project
 <img width="896" alt="Screenshot 2025-06-30 at 2 34 40 AM" src="https://github.com/user-attachments/assets/098ce58b-ea11-496d-81f4-5bafa648ac31" />
 
 
+## 2AM -> 5AM (3 Hours)
+
+So I had a lot of growth in these 2 hours! I finally figured out how to position itmes per the grid (all I had to do was press e...). So now, instead of zooming in a ton and movign items pixel by pixel, I just did some math. 
+
+The main problem was selecting where the buttons were going to be attached to the PCB. I centered them in teh space between the display and the edge of the device (oh yeah the dimensions for the PCB should be 150x60). I settled on a 10mm spacing between the centers of teh buttons, allowing them to be well spaced for gaming. The shoulder burttons are going to be located on the middle of the d-pads on both sides. 
+
+
+<img width="804" alt="Screenshot 2025-06-30 at 4 24 20 AM" src="https://github.com/user-attachments/assets/afa03e38-490f-4cb1-a834-69b0241e8538" />
+
+<img width="814" alt="Screenshot 2025-06-30 at 4 36 54 AM" src="https://github.com/user-attachments/assets/0d6469b4-3bd4-49c9-97cd-e3dfc2816735" />
+
+
 
 
 
