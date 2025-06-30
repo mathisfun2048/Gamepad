@@ -238,6 +238,19 @@ The main problem was selecting where the buttons were going to be attached to th
 
 <img width="814" alt="Screenshot 2025-06-30 at 4 36 54 AM" src="https://github.com/user-attachments/assets/0d6469b4-3bd4-49c9-97cd-e3dfc2816735" />
 
+## 3PM -> 7PM (4 hours)
+
+finished the CAD case! 
+
+All done (until my parts arrive!)
+
+
+![Top View](https://github.com/user-attachments/assets/958dc0f7-1002-4ce5-8b4d-4271cbb5d1b5)
+
+
+![Everything Together](https://github.com/user-attachments/assets/8a030313-b1bd-498e-863f-70267220d731)
+
+
 
 
 
