@@ -62,22 +62,7 @@ Here's everything you need if you want to build this too! (also includes sweat a
 
 Also, you might be wonderign why everything is either from Microcenter or Adafruit and not cheaper alternatives like AliExpress. The short answer is my parents won't allow me to purchase stuff from aliexpress. However, if my cost goes above the alloted $150 with future edits or anything, I will be more than happy to pay out of pocket. If this project gets downgraded to 4 points, I'd also be willing to pay out of pocket because this is honestly pretty cool and I want to see it in person. I never got a handheld video game console as a kid and I'm excited that I'll be able to make one now :)
 
-| Item                           | Quantity | Cost   | Source       | Link                                                                                         |
-|--------------------------------|----------|--------|--------------|----------------------------------------------------------------------------------------------|
-| Raspberry Pi Zero 2                 | 1        | 14.99  | Microcenter  | [Link](https://www.microcenter.com/product/643085/raspberry-pi-zero-2-w)                           |
-| GPIO header             | 1        | 5.99  | Microcenter       | [Link](https://www.microcenter.com/product/480889/schmartboard-inc-schmartboard-inc-2-x-20-male-headers-qty-5)                                                                                          |
-
-| 2.2" Display             | 1        | 24.95  | Adafruit     | [Link](https://www.adafruit.com/product/2315)                                               |
-| Custom PCB           | 1        | $9 + shipping  | JCL PCB  |  |
-| PowerBoost 1000c              | 1        | 19.99  | Microcenter  | [Link](https://www.microcenter.com/product/474415/adafruit-industries-powerboost-1000-charger-rechargeable-5v-lipo-usb-boost-@-1a) |
-| 2500 mAh Battery              | 1        | 14.99  | Microcenter  | [Link](https://www.microcenter.com/product/454401/adafruit-industries-lithium-ion-polymer-battery-37v-2500mah) |
-| stacking header     | 1        | 2.95   | Adafruit     | [Link](https://www.adafruit.com/product/1979?srsltid=AfmBOoqbo1ndLmYMVLTt_bqD4Yhi48SgEFRf9jc0nGi86ePSABa_MOBi)                                               |
-| Slide Switch                  | 1        | 0.95   | Adafruit     | [Link](https://www.adafruit.com/product/805)                                                |
-| 6mm Tactile Buttons           | 10       | 9.99   | Microcenter  | [Link](https://www.microcenter.com/product/632688/inland-6x6mm-micro-momentary-tactile-push-button-switches-assortment-kit-10-values-180-pcs) |
-| #4-40 3/8" Machine Screws     | 14       | 0.00   | Myself       | n/a                                                                                          |
-| #2-56 3/8" Machine Screws     | 6        | 0.00   | Myself       | n/a                                                                                          |
-| **Total**                     | **44**   | **~115** |              |                                                                                              
-
+                                                                                            
 
 | Item                      | Quantity | Cost          | Source      | Link                                                                                                                                          |
 | ------------------------- | -------- | ------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
