@@ -1,20 +1,13 @@
-item,quantity,cost,source,link
-,,,,
-Raspberry Pi Zero 2w,1,14.99,Microcenter,https://www.microcenter.com/product/643085/raspberry-pi-zero-2-w
-GPIO Header,1,5.99,Microcenter,https://www.microcenter.com/product/480889/schmartboard-inc-schmartboard-inc-2-x-20-male-headers-qty-5
-"2.8"" PiTFT Display",1,34.95,adafruit,https://www.adafruit.com/product/2298
-Custom PCB,1,$20,JCLPCB,n/a
-Neopixel LEDs, 4, 0, myself, should have remaining from another project!
-PowerBoost 1000c,1,19.99,Microcenter,https://www.microcenter.com/product/474415/adafruit-industries-powerboost-1000-charger-rechargeable-5v-lipo-usb-boost-@-1a
-2500 mAh battery,1,14.99,Microcenter,https://www.microcenter.com/product/454401/adafruit-industries-lithium-ion-polymer-battery-37v-2500mah
-PAM8302 2.5W Audio Amp,1,3.95,Microcenter,https://www.adafruit.com/product/2130
-Mini metal speaker,1,1.95,adafruit,https://www.adafruit.com/product/1890
-40 pin GPIO ribbon cable,1,2.95,adafruit,https://www.adafruit.com/product/1988
-slide switch,1,0.95,adafruit,https://www.adafruit.com/product/805
-6mm tactile buttons,10,9.99,microcenter,https://www.microcenter.com/product/632688/inland-6x6mm-micro-momentary-tactile-push-button-switches-assortment-kit-10-values-180-pcs
-12mm tactile buttons,2,0,microcenter,https://www.microcenter.com/product/632688/inland-6x6mm-micro-momentary-tactile-push-button-switches-assortment-kit-10-values-180-pcs
-2x20 pin IDC box header,1,0.75,adafruit,https://www.adafruit.com/product/1993
-heat sink kit,1,0,myself,n/a
-#4-40 3/8 machine screws,14,0,myself,n/a
-#2-56 3/8 machine screws,6,0,myself,n/a
-Total,43,~133,,
+"Item","Quantity","Cost","Source","Link"
+"Raspberry Pi Zero 2","1","14.99","Microcenter","[Link](https://www.microcenter.com/product/643085/raspberry-pi-zero-2-w)"
+"GPIO header","1","5.99","Microcenter","[Link](https://www.microcenter.com/product/480889/schmartboard-inc-schmartboard-inc-2-x-20-male-headers-qty-5)"
+"2.2" Display","1","24.95","Adafruit","[Link](https://www.adafruit.com/product/2315)"
+"Custom PCB","1","$9 + shipping","JCL PCB",""
+"PowerBoost 1000c","1","19.99","Microcenter","[Link](https://www.microcenter.com/product/474415/adafruit-industries-powerboost-1000-charger-rechargeable-5v-lipo-usb-boost-@-1a)"
+"2500 mAh Battery","1","14.99","Microcenter","[Link](https://www.microcenter.com/product/454401/adafruit-industries-lithium-ion-polymer-battery-37v-2500mah)"
+"stacking header","1","2.95","Adafruit","[Link](https://www.adafruit.com/product/1979?srsltid=AfmBOoqbo1ndLmYMVLTt_bqD4Yhi48SgEFRf9jc0nGi86ePSABa_MOBi)"
+"Slide Switch","1","0.95","Adafruit","[Link](https://www.adafruit.com/product/805)"
+"6mm Tactile Buttons","10","9.99","Microcenter","[Link](https://www.microcenter.com/product/632688/inland-6x6mm-micro-momentary-tactile-push-button-switches-assortment-kit-10-values-180-pcs)"
+"#4-40 3/8" Machine Screws","14","0.00","Myself","n/a"
+"#2-56 3/8" Machine Screws","6","0.00","Myself","n/a"
+"**Total**","","**~110**","",""
