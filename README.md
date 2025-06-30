@@ -66,19 +66,14 @@ Also, you might be wonderign why everything is either from Microcenter or Adafru
 |--------------------------------|----------|--------|--------------|----------------------------------------------------------------------------------------------|
 | Raspberry Pi Zero 2                 | 1        | 14.99  | Microcenter  | [Link](https://www.microcenter.com/product/643085/raspberry-pi-zero-2-w)                           |
 | GPIO header             | 1        | 5.99  | Microcenter       | [Link](https://www.microcenter.com/product/480889/schmartboard-inc-schmartboard-inc-2-x-20-male-headers-qty-5)                                                                                          |
-| 2.8" PiTFT Display             | 1        | 34.95  | Adafruit     | [Link](https://www.adafruit.com/product/2298)                                               |
-| Custom PCB           | 1        | ~$20  | JCL PCB  |  |
+
+| 2.2" Display             | 1        | 24.95  | Adafruit     | [Link](https://www.adafruit.com/product/2315)                                               |
+| Custom PCB           | 1        | $9 + shipping  | JCL PCB  |  |
 | PowerBoost 1000c              | 1        | 19.99  | Microcenter  | [Link](https://www.microcenter.com/product/474415/adafruit-industries-powerboost-1000-charger-rechargeable-5v-lipo-usb-boost-@-1a) |
-| NeoPixel LEDs sk6812Mini       | 4        | 0   | myself, should have some remaining from another project  | n/a                                             |
 | 2500 mAh Battery              | 1        | 14.99  | Microcenter  | [Link](https://www.microcenter.com/product/454401/adafruit-industries-lithium-ion-polymer-battery-37v-2500mah) |
-| PAM8302 2.5W Audio Amp        | 1        | 3.95   | Microcenter  | [Link](https://www.adafruit.com/product/2130)                                               |
-| Mini Metal Speaker            | 1        | 1.95   | Adafruit     | [Link](https://www.adafruit.com/product/1890)                                               |
-| 40 pin GPIO Ribbon Cable      | 1        | 2.95   | Adafruit     | [Link](https://www.adafruit.com/product/1988)                                               |
+| stacking header     | 1        | 2.95   | Adafruit     | [Link](https://www.adafruit.com/product/1979?srsltid=AfmBOoqbo1ndLmYMVLTt_bqD4Yhi48SgEFRf9jc0nGi86ePSABa_MOBi)                                               |
 | Slide Switch                  | 1        | 0.95   | Adafruit     | [Link](https://www.adafruit.com/product/805)                                                |
-| 6mm Tactile Buttons           | 10       | 0.00   | Microcenter  | [Link](https://www.microcenter.com/product/632688/inland-6x6mm-micro-momentary-tactile-push-button-switches-assortment-kit-10-values-180-pcs) |
-| 12mm Tactile Buttons          | 2        | 0.00   | Microcenter  | [Link](https://www.microcenter.com/product/632688/inland-6x6mm-micro-momentary-tactile-push-button-switches-assortment-kit-10-values-180-pcs) |
-| 2x20 pin IDC Box Header       | 1        | 0.75   | Adafruit     | [Link](https://www.adafruit.com/product/1993)                                               |
-| Heat Sink Kit                 | 1        | 0.00   | Myself       | n/a                                                                                          |
+| 6mm Tactile Buttons           | 10       | 9.99   | Microcenter  | [Link](https://www.microcenter.com/product/632688/inland-6x6mm-micro-momentary-tactile-push-button-switches-assortment-kit-10-values-180-pcs) |
 | #4-40 3/8" Machine Screws     | 14       | 0.00   | Myself       | n/a                                                                                          |
 | #2-56 3/8" Machine Screws     | 6        | 0.00   | Myself       | n/a                                                                                          |
 | **Total**                     | **44**   | **~115** |              |                                                                                              |
