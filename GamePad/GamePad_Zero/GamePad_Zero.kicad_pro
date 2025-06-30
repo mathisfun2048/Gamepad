@@ -450,7 +450,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "GamePad.kicad_pro",
+    "filename": "GamePad_Zero.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -486,7 +486,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../Production/",
+      "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -596,14 +596,6 @@
       "version": 1
     },
     "net_format_name": "",
-    "ngspice": {
-      "fix_include_paths": true,
-      "meta": {
-        "version": 0
-      },
-      "model_mode": 4,
-      "workbook_filename": ""
-    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "space_save_all_events": true,
@@ -618,7 +610,7 @@
   },
   "sheets": [
     [
-      "6fe0e935-409a-46d8-8560-e34c6cf13b11",
+      "7fe4ec09-5802-4e5d-b10e-2cf7c777a1bb",
       "Root"
     ]
   ],
