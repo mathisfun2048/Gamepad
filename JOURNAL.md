@@ -251,6 +251,9 @@ All done (until my parts arrive!)
 ![Everything Together](https://github.com/user-attachments/assets/8a030313-b1bd-498e-863f-70267220d731)
 
 
+I really really like how this turned out--it looks so cool! Just 1 month ago I had no clue what hardware was, and seeing that I've been able to ship a project is really satisfying. 
+
+
 
 
 
