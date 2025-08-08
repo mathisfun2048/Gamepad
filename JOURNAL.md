@@ -255,9 +255,28 @@ I really really like how this turned out--it looks so cool! Just 1 month ago I h
 
 
 
+# August 1 6AM -> 6PM (12 hours)
+
+I finished building it! Here's some snapshots during my build process:
+
+some things I learned during this:
+1. software is really fricking hard. thank you retropi for making this open source
+2. double check pcbs before sending them to print... the ground for the buttons were not connected to system ground so I needed to solder a wire for that connection so it works
+
+![IMG_5118](https://github.com/user-attachments/assets/a21bacdf-ba7b-44cf-b849-b3ac537f2c8b)
 
 
 
+
+![IMG_5119](https://github.com/user-attachments/assets/0a4a7b16-3784-4d39-b3ef-11089a184c33)
+![IMG_5120](https://github.com/user-attachments/assets/0b301390-c386-45e1-ad3e-95080bf47be3)
+
+
+![IMG_5123](https://github.com/user-attachments/assets/3e6b8aa0-8763-4d34-b3a2-cf56c869d3d0)
+![IMG_5125](https://github.com/user-attachments/assets/0608b1b1-a1a1-4b9b-a0d0-4cc614aed51a)
+
+![IMG_5126](https://github.com![IMG_5134](https://github.com/user-attachments/assets/b5fc60e4-f174-4993-80b1-9c8ca72ed17f)
+/user-attachments/assets/ec4bbd86-dd96-42ef-88d6-91bef79ca43d)![IMG_5127](https://github.com/user-attachments/assets/a4a386a3-9863-4553-8b4f-3cdf0e96ea28)
 
 
 
