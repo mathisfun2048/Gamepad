@@ -1,4 +1,5 @@
 # Gamepad
+![IMG_5134](https://github.com/user-attachments/assets/afd98ed8-4293-4146-9ce0-662dc5c0ac6a)
 
 ## Description and Exigence
 Hallo! This is my second attempt at hardware design! This time, instead of focusing on a PCB, I wanted to investigate how multiple different parts can come together to create a product. The goal of this project is to create a functional gameboy-esq device that I can play games on! Initially this project was meant to fit inside of an altoids tin, but that was above my skill grade, so I downgraded to a slighly clunkier console. 
