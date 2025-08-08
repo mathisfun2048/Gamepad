@@ -275,10 +275,10 @@ some things I learned during this:
 ![IMG_5123](https://github.com/user-attachments/assets/3e6b8aa0-8763-4d34-b3a2-cf56c869d3d0)
 ![IMG_5125](https://github.com/user-attachments/assets/0608b1b1-a1a1-4b9b-a0d0-4cc614aed51a)
 
-![IMG_5126](https://github.com![IMG_5134](https://github.com/user-attachments/assets/b5fc60e4-f174-4993-80b1-9c8ca72ed17f)
-/user-attachments/assets/ec4bbd86-dd96-42ef-88d6-91bef79ca43d)![IMG_5127](https://github.com/user-attachments/assets/a4a386a3-9863-4553-8b4f-3cdf0e96ea28)
 
 
+
+![IMG_5134](https://github.com/user-attachments/assets/7e7b9b0a-96df-402e-9f01-e7fd99d11125)
 
 
 
